@@ -23,5 +23,5 @@ const NoMatch = () => {
       </div>
     );
   }
-
+export { Home, About, LocationDisplay };
 export default App;
